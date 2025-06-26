@@ -1,1 +1,1 @@
-This code file takes an input .bib file (LaTeX), and turns the title into titlecase.
+This code file takes an input .bib file (LaTeX), and turns the title into titlecase before returning an edited .bib file.
