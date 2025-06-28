@@ -1,2 +1,4 @@
-This code file takes an input .bib file (LaTeX), and turns the title into titlecase before returning an edited .bib file.
-See example file (bib.bib) for test usage.
+This python script processes a .bib (BibTeX) file by converting the titles of entries to title case. It outputs an updated .bib file with the modified titles.
+
+For example usage, see the included bib.bib file.
+
